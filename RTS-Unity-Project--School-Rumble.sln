@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTS-Unity-Project--School-Rumble", "Assembly-CSharp-firstpass.csproj", "{D63D8380-A0E9-5EA8-1714-5FB6AF8E2E3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTS-Unity-Project--School-Rumble", "Assembly-CSharp.csproj", "{09536300-0758-8F1D-9894-A5AFEF222369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTS-Unity-Project--School-Rumble", "Assembly-CSharp-Editor-firstpass.csproj", "{4E2B8189-0D98-F91A-5AE2-C45E11E364AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63D8380-A0E9-5EA8-1714-5FB6AF8E2E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63D8380-A0E9-5EA8-1714-5FB6AF8E2E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63D8380-A0E9-5EA8-1714-5FB6AF8E2E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63D8380-A0E9-5EA8-1714-5FB6AF8E2E3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09536300-0758-8F1D-9894-A5AFEF222369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09536300-0758-8F1D-9894-A5AFEF222369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09536300-0758-8F1D-9894-A5AFEF222369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09536300-0758-8F1D-9894-A5AFEF222369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E2B8189-0D98-F91A-5AE2-C45E11E364AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2B8189-0D98-F91A-5AE2-C45E11E364AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2B8189-0D98-F91A-5AE2-C45E11E364AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2B8189-0D98-F91A-5AE2-C45E11E364AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
